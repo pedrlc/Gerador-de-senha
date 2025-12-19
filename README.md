@@ -223,7 +223,13 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 - Lógica de geração de strings aleatórias
 
-- Experiência do usuário (UX)
+- Experiência do usuário (UX)   
+
 ---
-Feito por Pedro Lc (pedrlc)
-@pedro.lc_
+# Autor   
+
+Pedro Lucas (pedrlc)  
+Estudante de Engenharia de Software
+GitHub: https://github.com/pedrlc   
+Linkedin: www.linkedin.com/in/pedro-lucas-lopes-monteiro
+
